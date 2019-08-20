@@ -14,6 +14,7 @@ namespace SQLServer_数据库联合
         [STAThread]
         static void Main()
         {
+            //注释
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
